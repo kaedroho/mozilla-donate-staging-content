@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2019-09-26 09:32:17.575344+00:00\n"
@@ -10,8 +10,16 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pontoon\n"
 
-msgid "Donate today"
-msgstr "Spende heute"
+msgid "Donate now"
+msgstr ""
 
-msgid "Notice research tell cultural. Special our peace able fish month no. Letter degree about single type. Black over win main national garden."
-msgstr "Beachten Sie die Forschung erzählen kulturelle. Speziell unser friedlicher Fischmonat Nr. Buchstabengrad über Einzeltyp. Schwarz über Win Hauptnationalgarten."
+msgid ""
+"<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
+"keep the Web open and free. <b>Will you give today?</b>"
+msgstr ""
+
+#~ msgid "Donate today"
+#~ msgstr "Spende heute"
+
+#~ msgid "Notice research tell cultural. Special our peace able fish month no. Letter degree about single type. Black over win main national garden."
+#~ msgstr "Beachten Sie die Forschung erzählen kulturelle. Speziell unser friedlicher Fischmonat Nr. Buchstabengrad über Einzeltyp. Schwarz über Win Hauptnationalgarten."

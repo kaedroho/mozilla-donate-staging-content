@@ -5,8 +5,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/html; charset=utf-8\n"
 
-msgid "Donate today"
+msgid "Donate now"
 msgstr ""
 
-msgid "Notice research tell cultural. Special our peace able fish month no. Letter degree about single type. Black over win main national garden."
+msgid ""
+"<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
+"keep the Web open and free. <b>Will you give today?</b>"
 msgstr ""

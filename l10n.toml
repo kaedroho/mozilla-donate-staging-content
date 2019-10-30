@@ -7,3 +7,11 @@ l10n = "locales/{locale}/mozilla-donate.po"
 reference = "templates/mozilla-donate/fighting-back.pot"
 l10n = "locales/{locale}/mozilla-donate/fighting-back.po"
 
+[[paths]]
+reference = "templates/mozilla-donate/its-pi-day.pot"
+l10n = "locales/{locale}/mozilla-donate/its-pi-day.po"
+
+[[paths]]
+reference = "templates/mozilla-donate/thunderbird.pot"
+l10n = "locales/{locale}/mozilla-donate/thunderbird.po"
+

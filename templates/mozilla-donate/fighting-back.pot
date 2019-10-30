@@ -8,9 +8,6 @@ msgstr ""
 msgid "Fighting Back Against Misinformation"
 msgstr ""
 
-msgid "fighting-back"
-msgstr ""
-
 msgid "Take action to demand that tech companies address online misinformation"
 msgstr ""
 

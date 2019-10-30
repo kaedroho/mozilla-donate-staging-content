@@ -9,10 +9,15 @@ msgstr ""
 msgid "Fighting Back Against Misinformation"
 msgstr ""
 
-msgid "fighting-back"
+msgid "Take action to demand that tech companies address online misinformation"
 msgstr ""
 
 msgid "Take action to demand that tech companies address online misinformation"
+msgstr ""
+
+msgid ""
+"We are proudly non-profit, non-corporate and non-compromised. Thousands of people like you help us stand up for an open Web for all. We rely on donations to carry out our mission to keep the Web "
+"open and free. Will you give today?"
 msgstr ""
 
 msgid ""
