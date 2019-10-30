@@ -11,5 +11,5 @@ msgstr ""
 msgid "Give your money for Thunderbird"
 msgstr ""
 
-msgid "It&#39;s not a donation."
+msgid "It&#39;s not a donation. It’s not a straight quote."
 msgstr ""
