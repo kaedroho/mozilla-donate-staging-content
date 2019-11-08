@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2019-11-01 09:17:36.236552+00:00\n"
@@ -19,7 +19,16 @@ msgstr ""
 msgid "US Dollars"
 msgstr ""
 
+msgid "Credit / Debit and PayPal"
+msgstr ""
+
 msgid "<b>Receiving Bank (Pay to):</b> Silicon Valley Bank"
+msgstr ""
+
+msgid "<a id=\"a1\">Go to this link</a> to make a secure online donation right now."
+msgstr ""
+
+msgid "US Dollars"
 msgstr ""
 
 msgid "<b>Address:</b> 3003 Tasman Drive, Santa Clara, CA 94054 USA"
@@ -28,13 +37,25 @@ msgstr ""
 msgid "Domestic Transfers:"
 msgstr ""
 
+msgid "<b>Receiving Bank (Pay to):</b> Silicon Valley Bank"
+msgstr ""
+
 msgid "<b>Routing &amp; Transit (ABA):</b> 121140399"
+msgstr ""
+
+msgid "<b>Address:</b> 3003 Tasman Drive, Santa Clara, CA 94054 USA"
 msgstr ""
 
 msgid "<b>Beneficiary Name (For credit to):</b> Mozilla Foundation"
 msgstr ""
 
+msgid "Domestic Transfers:"
+msgstr ""
+
 msgid "<b>Account Number:</b> 3302412870"
+msgstr ""
+
+msgid "<b>Routing &amp; Transit (ABA):</b> 121140399"
 msgstr ""
 
 msgid "International Wire Transfers (except EUR or GBP Transfers):"
@@ -46,28 +67,76 @@ msgstr ""
 msgid "<b>Beneficiary Name (For credit to):</b> Mozilla Foundation"
 msgstr ""
 
+msgid "<b>Beneficiary Name (For credit to):</b> Mozilla Foundation"
+msgstr ""
+
+msgid "<b>Account Number:</b> 3302412870"
+msgstr ""
+
+msgid "<b>Account Number:</b> 3302412870"
+msgstr ""
+
+msgid "International Wire Transfers (except EUR or GBP Transfers):"
+msgstr ""
+
+msgid "<b>Routing &amp; Transit (ABA):</b> 121140399"
+msgstr ""
+
+msgid "<b>SWIFT/BIC Code:</b> SVBKUS6S"
+msgstr ""
+
+msgid "<b>Beneficiary Name (For credit to):</b> Mozilla Foundation"
+msgstr ""
+
+msgid "All other currencies"
+msgstr ""
+
 msgid "<b>Account Number:</b> 3302412870"
 msgstr ""
 
 msgid "<b>SWIFT/BIC Code:</b> SVBKUS6S"
 msgstr ""
 
-msgid "All other currencies"
-msgstr ""
-
 msgid "If you would like to know the IBAN to donate in other currencies, please email <a id=\"a1\">donate@mozilla.org</a>."
 msgstr "Si vous souhaitez connaître le numéro IBAN pour effectuer un don dans une autre monnaie, merci de nous contacter via <a id=\"a1\">donate@mozilla.org</a>."
+
+msgid "All other currencies"
+msgstr ""
 
 msgid "Check (via postal service)"
 msgstr "Chèque (par voie postale)"
 
+msgid "If you would like to know the IBAN to donate in other currencies, please email <a id=\"a1\">donate@mozilla.org</a>."
+msgstr "Si vous souhaitez connaître le numéro IBAN pour effectuer un don dans une autre monnaie, merci de nous contacter via <a id=\"a1\">donate@mozilla.org</a>."
+
 msgid "Please send a check <b>including your email address on the memo line</b>, and payable (payee) to “Mozilla Foundation”"
 msgstr ""
+
+msgid "Check (via postal service)"
+msgstr "Chèque (par voie postale)"
 
 msgid "Mozilla Foundation attn: Donor Care"
 msgstr ""
 
 msgid "2 Harrison Street, #175"
+msgstr ""
+
+msgid "Please send a check <b>including your email address on the memo line</b>, and payable (payee) to “Mozilla Foundation”"
+msgstr ""
+
+msgid "San Francisco CA 94105"
+msgstr ""
+
+msgid "Mozilla Foundation attn: Donor Care"
+msgstr ""
+
+msgid "USA"
+msgstr ""
+
+msgid "2 Harrison Street, #175"
+msgstr ""
+
+msgid "Currencies"
 msgstr ""
 
 msgid "San Francisco CA 94105"
@@ -76,10 +145,10 @@ msgstr ""
 msgid "USA"
 msgstr ""
 
-msgid "Currencies"
+msgid "Select your currency to make a secure online donation:"
 msgstr ""
 
-msgid "Select your currency to make a secure online donation:"
+msgid "Currencies"
 msgstr ""
 
 msgid "<a id=\"a1\">USD $</a>"
@@ -88,142 +157,298 @@ msgstr ""
 msgid "<a id=\"a1\">AED د.إ.‏</a>"
 msgstr ""
 
+msgid "Select your currency to make a secure online donation:"
+msgstr ""
+
 msgid "<a id=\"a1\">ALL L</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">USD $</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">AUD $</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">AED د.إ.‏</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">ARS $</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">ALL L</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">AZN ₼</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">AUD $</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">BAM KM</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">ARS $</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">BDT ৳</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">AZN ₼</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">BRL R$</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">BAM KM</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">CAD $</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">BDT ৳</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">CHF Fr.</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">BRL R$</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">CLP $</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">CAD $</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">CNY ¥</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">CHF Fr.</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">CZK Kč</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">CLP $</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">DKK kr</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">CNY ¥</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">DZD د.ج.‏</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">CZK Kč</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">EGP ج.م.‏</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">DKK kr</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">EUR €</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">DZD د.ج.‏</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">GBP £</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">EGP ج.م.‏</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">GEL ₾</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">EUR €</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">GTQ Q</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">GBP £</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">HKD $</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">GEL ₾</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">HRK kn</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">GTQ Q</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">HUF Ft</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">HKD $</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">IDR Rp</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">HRK kn</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">ILS ₪</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">HUF Ft</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">INR ₹</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">IDR Rp</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">JPY ¥</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">ILS ₪</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">KRW ₩</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">INR ₹</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">LAK ₭</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">JPY ¥</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">LBP ل.ل.‎</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">KRW ₩</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">MAD MAD</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">LAK ₭</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">MYR RM</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">LBP ل.ل.‎</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">MXN $</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">MAD MAD</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">NOK kr</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">MYR RM</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">NZD $</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">MXN $</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">PHP ₱</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">NOK kr</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">PLN zł</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">NZD $</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">QAR ر.ق.‏</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">PHP ₱</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">RON lei</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">PLN zł</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">RUB ₽</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">QAR ر.ق.‏</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">SAR ر.س.‏</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">RON lei</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">SEK kr</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">RUB ₽</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">SGD $SG</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">SAR ر.س.‏</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">THB ฿</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">SEK kr</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">TRY ₺</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">SGD $SG</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">TWD NT$</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">THB ฿</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">UAH ₴</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">TRY ₺</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">YER ر.ي.‏</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">TWD NT$</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">ZAR R</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">UAH ₴</a>"
+msgstr ""
+
+msgid "Bitcoin"
 msgstr ""
 
 msgid "<a id=\"a1\">YER ر.ي.‏</a>"
@@ -232,7 +457,22 @@ msgstr ""
 msgid "<a id=\"a1\">ZAR R</a>"
 msgstr ""
 
+msgid ""
+"The Mozilla Foundation is a California non-profit corporation exempt from United States federal income taxation under IRC 501(c)(3) and a public charity classified under IRC sections 170(b)(1)(A) "
+"and 509(a)(1). Bitcoin donations Mozilla receives are considered charitable contributions under U.S. federal tax laws, to be used in its discretion for its charitable purposes. Because the IRS has "
+"indicated that it will treat bitcoin as property for U.S. tax purposes (see IRS Notice 2014-21), donations of bitcoin may be subject to special rules as to the amount of your charitable deduction, "
+"the documentation that must be provided to claim a tax deduction, or other matters."
+msgstr ""
+"Mozilla Foundation est une entreprise à but non lucratif californienne exonérée de l’impôt sur le revenu aux États-Unis selon la section 501(c)(3) de l’Internal Revenue Code (IRC) et est considérée "
+"comme organisme de bienfaisance selon les sections 170(b)(1)(A) et 509(a)(1) de l’IRC. Les dons en bitcoins reçus par Mozilla sont considérés comme des dons à des organismes de bienfaisance selon la"
+" législation fiscale aux États-Unis, et seront utilisés à des fins caritatives, à sa discrétion. L’Internal Revenue Service a indiqué qu’il traitera les bitcoins en tant que biens dans le cadre des "
+"impôts aux États-Unis (voir la notice 2014-21 de l’IRS). Les dons en bitcoins peuvent faire l’objet de règles spécifiques sur le montant de votre déduction liée aux dons à des organismes de "
+"bienfaisance, sur les justificatifs devant être fournis pour demander une déduction fiscale, et sur d’autres choses."
+
 msgid "Bitcoin"
+msgstr ""
+
+msgid "Learn more about bitcoin donations <a id=\"a1\">here</a>. To donate bitcoins, <a id=\"a2\">please visit this link.</a>"
 msgstr ""
 
 msgid ""

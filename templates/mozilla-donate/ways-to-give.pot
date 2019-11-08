@@ -11,6 +11,12 @@ msgstr ""
 msgid "Donate now"
 msgstr ""
 
+msgid "Credit / Debit and PayPal"
+msgstr ""
+
+msgid "<a id=\"a1\">Go to this link</a> to make a secure online donation right now."
+msgstr ""
+
 msgid "US Dollars"
 msgstr ""
 
