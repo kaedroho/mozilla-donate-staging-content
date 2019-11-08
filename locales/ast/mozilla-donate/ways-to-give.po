@@ -132,9 +132,6 @@ msgstr ""
 msgid "All other currencies"
 msgstr ""
 
-msgid "Check (via postal service)"
-msgstr ""
-
 msgid "British Pound Sterling"
 msgstr ""
 
@@ -142,9 +139,6 @@ msgid "If you would like to know the IBAN to donate in other currencies, please 
 msgstr ""
 
 msgid "<b>Account Currency:</b> British Pound Sterling (GBP)"
-msgstr ""
-
-msgid "Check (via postal service)"
 msgstr ""
 
 msgid "Mozilla Foundation attn: Donor Care"
@@ -333,9 +327,6 @@ msgstr ""
 msgid "<a id=\"a1\">DZD د.ج.‏</a>"
 msgstr ""
 
-msgid "Check (via postal service)"
-msgstr ""
-
 msgid "<a id=\"a1\">CZK Kč</a>"
 msgstr ""
 
@@ -346,6 +337,14 @@ msgid "<a id=\"a1\">DKK kr</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">EUR €</a>"
+msgstr ""
+
+msgid ""
+"Please send a check <b>including your email address on the memo line</b>, and payable (payee) to “Mozilla Foundation.” Please note that the Mozilla Foundation can only accept checks in US dollars "
+"drawn on a US bank. Please do <b>not</b> send cash."
+msgstr ""
+
+msgid "Mozilla Foundation attn: Donor Care"
 msgstr ""
 
 msgid "<a id=\"a1\">DZD د.ج.‏</a>"
@@ -362,6 +361,9 @@ msgstr ""
 msgid "Mozilla Foundation attn: Donor Care"
 msgstr ""
 
+msgid "2 Harrison Street, #175"
+msgstr ""
+
 msgid "<a id=\"a1\">EGP ج.م.‏</a>"
 msgstr ""
 
@@ -369,6 +371,9 @@ msgid "<a id=\"a1\">GEL ₾</a>"
 msgstr ""
 
 msgid "2 Harrison Street, #175"
+msgstr ""
+
+msgid "San Francisco CA 94105"
 msgstr ""
 
 msgid "<a id=\"a1\">EUR €</a>"
@@ -380,6 +385,9 @@ msgstr ""
 msgid "San Francisco CA 94105"
 msgstr ""
 
+msgid "USA"
+msgstr ""
+
 msgid "<a id=\"a1\">GBP £</a>"
 msgstr ""
 
@@ -387,6 +395,9 @@ msgid "<a id=\"a1\">HKD $</a>"
 msgstr ""
 
 msgid "USA"
+msgstr ""
+
+msgid "Currencies"
 msgstr ""
 
 msgid "<a id=\"a1\">GEL ₾</a>"
@@ -404,6 +415,9 @@ msgstr ""
 msgid "<a id=\"a1\">HUF Ft</a>"
 msgstr ""
 
+msgid "Select your currency to make a secure online donation:"
+msgstr ""
+
 msgid "<a id=\"a1\">HKD $</a>"
 msgstr ""
 
@@ -411,6 +425,9 @@ msgid "<a id=\"a1\">IDR Rp</a>"
 msgstr ""
 
 msgid "Select your currency to make a secure online donation:"
+msgstr ""
+
+msgid "<a id=\"a1\">USD $</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">HRK kn</a>"
@@ -422,6 +439,9 @@ msgstr ""
 msgid "<a id=\"a1\">USD $</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">AED د.إ.‏</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">HUF Ft</a>"
 msgstr ""
 
@@ -429,6 +449,9 @@ msgid "<a id=\"a1\">INR ₹</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">AED د.إ.‏</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">ALL L</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">IDR Rp</a>"
@@ -440,6 +463,9 @@ msgstr ""
 msgid "<a id=\"a1\">ALL L</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">AUD $</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">ILS ₪</a>"
 msgstr ""
 
@@ -447,6 +473,9 @@ msgid "<a id=\"a1\">KRW ₩</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">AUD $</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">ARS $</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">INR ₹</a>"
@@ -458,6 +487,9 @@ msgstr ""
 msgid "<a id=\"a1\">ARS $</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">AZN ₼</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">JPY ¥</a>"
 msgstr ""
 
@@ -465,6 +497,9 @@ msgid "<a id=\"a1\">LBP ل.ل.‎</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">AZN ₼</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">BAM KM</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">KRW ₩</a>"
@@ -476,6 +511,9 @@ msgstr ""
 msgid "<a id=\"a1\">BAM KM</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">BDT ৳</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">LAK ₭</a>"
 msgstr ""
 
@@ -483,6 +521,9 @@ msgid "<a id=\"a1\">MYR RM</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">BDT ৳</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">BRL R$</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">LBP ل.ل.‎</a>"
@@ -494,6 +535,9 @@ msgstr ""
 msgid "<a id=\"a1\">BRL R$</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">CAD $</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">MAD MAD</a>"
 msgstr ""
 
@@ -501,6 +545,9 @@ msgid "<a id=\"a1\">NOK kr</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">CAD $</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">CHF Fr.</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">MYR RM</a>"
@@ -512,6 +559,9 @@ msgstr ""
 msgid "<a id=\"a1\">CHF Fr.</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">CLP $</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">MXN $</a>"
 msgstr ""
 
@@ -519,6 +569,9 @@ msgid "<a id=\"a1\">PHP ₱</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">CLP $</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">CNY ¥</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">NOK kr</a>"
@@ -530,6 +583,9 @@ msgstr ""
 msgid "<a id=\"a1\">CNY ¥</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">CZK Kč</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">NZD $</a>"
 msgstr ""
 
@@ -537,6 +593,9 @@ msgid "<a id=\"a1\">QAR ر.ق.‏</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">CZK Kč</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">DKK kr</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">PHP ₱</a>"
@@ -548,6 +607,9 @@ msgstr ""
 msgid "<a id=\"a1\">DKK kr</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">DZD د.ج.‏</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">PLN zł</a>"
 msgstr ""
 
@@ -555,6 +617,9 @@ msgid "<a id=\"a1\">RUB ₽</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">DZD د.ج.‏</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">EGP ج.م.‏</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">QAR ر.ق.‏</a>"
@@ -566,6 +631,9 @@ msgstr ""
 msgid "<a id=\"a1\">EGP ج.م.‏</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">EUR €</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">RON lei</a>"
 msgstr ""
 
@@ -573,6 +641,9 @@ msgid "<a id=\"a1\">SEK kr</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">EUR €</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">GBP £</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">RUB ₽</a>"
@@ -584,6 +655,9 @@ msgstr ""
 msgid "<a id=\"a1\">GBP £</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">GEL ₾</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">SAR ر.س.‏</a>"
 msgstr ""
 
@@ -591,6 +665,9 @@ msgid "<a id=\"a1\">THB ฿</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">GEL ₾</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">GTQ Q</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">SEK kr</a>"
@@ -602,6 +679,9 @@ msgstr ""
 msgid "<a id=\"a1\">GTQ Q</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">HKD $</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">SGD $SG</a>"
 msgstr ""
 
@@ -609,6 +689,9 @@ msgid "<a id=\"a1\">TWD NT$</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">HKD $</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">HRK kn</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">THB ฿</a>"
@@ -620,6 +703,9 @@ msgstr ""
 msgid "<a id=\"a1\">HRK kn</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">HUF Ft</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">TRY ₺</a>"
 msgstr ""
 
@@ -627,6 +713,9 @@ msgid "<a id=\"a1\">YER ر.ي.‏</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">HUF Ft</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">IDR Rp</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">TWD NT$</a>"
@@ -638,6 +727,9 @@ msgstr ""
 msgid "<a id=\"a1\">IDR Rp</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">ILS ₪</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">UAH ₴</a>"
 msgstr ""
 
@@ -647,10 +739,16 @@ msgstr ""
 msgid "<a id=\"a1\">ILS ₪</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">INR ₹</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">YER ر.ي.‏</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">INR ₹</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">JPY ¥</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">ZAR R</a>"
@@ -666,6 +764,9 @@ msgstr ""
 msgid "<a id=\"a1\">JPY ¥</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">KRW ₩</a>"
+msgstr ""
+
 msgid "Bitcoin"
 msgstr ""
 
@@ -678,6 +779,12 @@ msgstr ""
 msgid "<a id=\"a1\">LAK ₭</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">LAK ₭</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">LBP ل.ل.‎</a>"
+msgstr ""
+
 msgid ""
 "The Mozilla Foundation is a California non-profit corporation exempt from United States federal income taxation under IRC 501(c)(3) and a public charity classified under IRC sections 170(b)(1)(A) "
 "and 509(a)(1). Bitcoin donations Mozilla receives are considered charitable contributions under U.S. federal tax laws, to be used in its discretion for its charitable purposes. Because the IRS has "
@@ -686,6 +793,9 @@ msgid ""
 msgstr ""
 
 msgid "<a id=\"a1\">LBP ل.ل.‎</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">MAD MAD</a>"
 msgstr ""
 
 msgid "Learn more about bitcoin donations <a id=\"a1\">here</a>. To donate bitcoins, <a id=\"a2\">please visit this link.</a>"
@@ -697,7 +807,16 @@ msgstr ""
 msgid "<a id=\"a1\">MYR RM</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">MYR RM</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">MXN $</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">MXN $</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">NOK kr</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">NOK kr</a>"
@@ -706,7 +825,16 @@ msgstr ""
 msgid "<a id=\"a1\">NZD $</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">NZD $</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">PHP ₱</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">PHP ₱</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">PLN zł</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">PLN zł</a>"
@@ -715,7 +843,16 @@ msgstr ""
 msgid "<a id=\"a1\">QAR ر.ق.‏</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">QAR ر.ق.‏</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">RON lei</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">RON lei</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">RUB ₽</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">RUB ₽</a>"
@@ -724,7 +861,16 @@ msgstr ""
 msgid "<a id=\"a1\">SAR ر.س.‏</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">SAR ر.س.‏</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">SEK kr</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">SEK kr</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">SGD $SG</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">SGD $SG</a>"
@@ -733,7 +879,16 @@ msgstr ""
 msgid "<a id=\"a1\">THB ฿</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">THB ฿</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">TRY ₺</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">TRY ₺</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">TWD NT$</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">TWD NT$</a>"
@@ -742,10 +897,22 @@ msgstr ""
 msgid "<a id=\"a1\">UAH ₴</a>"
 msgstr ""
 
+msgid "<a id=\"a1\">UAH ₴</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">YER ر.ي.‏</a>"
+msgstr ""
+
 msgid "<a id=\"a1\">YER ر.ي.‏</a>"
 msgstr ""
 
 msgid "<a id=\"a1\">ZAR R</a>"
+msgstr ""
+
+msgid "<a id=\"a1\">ZAR R</a>"
+msgstr ""
+
+msgid "Bitcoin"
 msgstr ""
 
 msgid "Bitcoin"
@@ -756,6 +923,16 @@ msgid ""
 "and 509(a)(1). Bitcoin donations Mozilla receives are considered charitable contributions under U.S. federal tax laws, to be used in its discretion for its charitable purposes. Because the IRS has "
 "indicated that it will treat bitcoin as property for U.S. tax purposes (see IRS Notice 2014-21), donations of bitcoin may be subject to special rules as to the amount of your charitable deduction, "
 "the documentation that must be provided to claim a tax deduction, or other matters."
+msgstr ""
+
+msgid ""
+"The Mozilla Foundation is a California non-profit corporation exempt from United States federal income taxation under IRC 501(c)(3) and a public charity classified under IRC sections 170(b)(1)(A) "
+"and 509(a)(1). Bitcoin donations Mozilla receives are considered charitable contributions under U.S. federal tax laws, to be used in its discretion for its charitable purposes. Because the IRS has "
+"indicated that it will treat bitcoin as property for U.S. tax purposes (see IRS Notice 2014-21), donations of bitcoin may be subject to special rules as to the amount of your charitable deduction, "
+"the documentation that must be provided to claim a tax deduction, or other matters."
+msgstr ""
+
+msgid "Learn more about bitcoin donations <a id=\"a1\">here</a>. To donate bitcoins, <a id=\"a2\">please visit this link.</a>"
 msgstr ""
 
 msgid "Learn more about bitcoin donations <a id=\"a1\">here</a>. To donate bitcoins, <a id=\"a2\">please visit this link.</a>"
