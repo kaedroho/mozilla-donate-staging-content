@@ -17,6 +17,66 @@ msgstr ""
 msgid "<a id=\"a1\">Go to this link</a> to make a secure online donation right now."
 msgstr ""
 
+msgid "Bank Transfer / SEPA"
+msgstr ""
+
+msgid "We accept donations in Euros through Single European Payment Area (SEPA) transfer, and British Pounds through BACS transfer."
+msgstr ""
+
+msgid "Please remember that donations are deductible for U.S. income tax purposes only."
+msgstr ""
+
+msgid "If your bank requests our physical address, it is 331 E. Evelyn Ave, Mountain View, CA 94041 USA."
+msgstr ""
+
+msgid "Euros"
+msgstr ""
+
+msgid "<b>Account Currency:</b> Euro (EUR)"
+msgstr ""
+
+msgid "<b>Receiving Bank (Pay to):</b> Standard Chartered Bank"
+msgstr ""
+
+msgid "<b>City &amp; Country/Region:</b> Frankfurt, Germany"
+msgstr ""
+
+msgid "<b>SWIFT/BIC Code:</b> SCBLDEFX"
+msgstr ""
+
+msgid "<b>Beneficiary Name (For credit to):</b> SVB-Mozilla Foundation"
+msgstr ""
+
+msgid "<b>IBAN:</b> DE67512305000500136802"
+msgstr ""
+
+msgid "British Pound Sterling"
+msgstr ""
+
+msgid "<b>Account Currency:</b> British Pound Sterling (GBP)"
+msgstr ""
+
+msgid "<b>Receiving Bank (Pay to):</b> National Westminster Bank"
+msgstr ""
+
+msgid "<b>City &amp; Country/Region:</b> London, United Kingdom"
+msgstr ""
+
+msgid "<b>Bank Sort Code:</b> 60-00-04"
+msgstr ""
+
+msgid "<b>Account Number (8 digits):</b> 10017496"
+msgstr ""
+
+msgid "<b>Beneficiary Name (For credit to):</b> SVB RE Mozilla Foundation"
+msgstr ""
+
+msgid "<b>SWIFT/BIC Code:</b> NWBKGB2L"
+msgstr ""
+
+msgid "<b>IBAN:</b> GB77NWBK60000410017496"
+msgstr ""
+
 msgid "US Dollars"
 msgstr ""
 
@@ -62,7 +122,9 @@ msgstr ""
 msgid "Check (via postal service)"
 msgstr ""
 
-msgid "Please send a check <b>including your email address on the memo line</b>, and payable (payee) to “Mozilla Foundation”"
+msgid ""
+"Please send a check <b>including your email address on the memo line</b>, and payable (payee) to “Mozilla Foundation.” Please note that the Mozilla Foundation can only accept checks in US dollars "
+"drawn on a US bank. Please do <b>not</b> send cash."
 msgstr ""
 
 msgid "Mozilla Foundation attn: Donor Care"
