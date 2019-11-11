@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2019-11-08 15:01:00.727934+00:00\n"
-"PO-Revision-Date: 2019-11-08 16:10+0000\n"
+"PO-Revision-Date: 2019-11-11 12:58+0000\n"
 "Last-Translator: theo <theo@mozillafoundation.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -11,7 +11,7 @@ msgstr ""
 "X-Generator: Pontoon\n"
 
 msgid "Donate now"
-msgstr "Faire un don"
+msgstr "Faites un don"
 
 msgid ""
 "<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
