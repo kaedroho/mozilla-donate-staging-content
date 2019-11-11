@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2019-11-08 15:01:01.861206+00:00\n"
@@ -14,7 +14,7 @@ msgid "Below are the most frequently asked questions about donating to the Mozil
 msgstr "Questions les plus fréquentes ci-dessous."
 
 msgid "Donate now"
-msgstr "Faire un don"
+msgstr "Faites un don"
 
 msgid "Donor FAQ"
 msgstr "FAQ pour les dons"

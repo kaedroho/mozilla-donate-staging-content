@@ -296,14 +296,17 @@ msgstr "Euros"
 msgid "<a id=\"a1\">Go to this link</a> to make a secure online donation right now."
 msgstr "<a id=\"a1\">Consultez ce lien</a> pour faire un don en ligne de façon sécurisée, sans attendre."
 
-msgid "Credit / Debit and PayPal"
-msgstr "Carte bancaire ou PayPal"
+msgid "Credit / Debit and PayPal."
+msgstr ""
 
 msgid "Donate now"
-msgstr "Faire un don"
+msgstr "Faites un don"
 
 msgid "Ways to Give"
 msgstr "Les différentes façons de faire un don"
+
+#~ msgid "Credit / Debit and PayPal"
+#~ msgstr "Carte bancaire ou PayPal"
 
 #~ msgid "Bank Transfer / SEPA"
 #~ msgstr "Virement bancaire / SEPA"
