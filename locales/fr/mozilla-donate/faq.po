@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2019-11-08 15:01:01.861206+00:00\n"
-"PO-Revision-Date: 2019-11-11 12:59+0000\n"
+"PO-Revision-Date: 2019-11-11 15:03+0000\n"
 "Last-Translator: theo <theo@mozillafoundation.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -11,7 +11,7 @@ msgstr ""
 "X-Generator: Pontoon\n"
 
 msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation"
-msgstr ""
+msgstr "Questions les plus fréquentes ci-dessous"
 
 msgid "Donate now"
 msgstr "Faites un don"
