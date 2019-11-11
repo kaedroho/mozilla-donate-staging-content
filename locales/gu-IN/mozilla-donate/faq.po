@@ -10,11 +10,14 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pontoon\n"
 
-msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
-msgstr "Test test test test"
+msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation"
+msgstr ""
 
 msgid "Donate now"
 msgstr "Test test"
 
 msgid "Donor FAQ"
 msgstr "Test test"
+
+#~ msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
+#~ msgstr "Test test test test"

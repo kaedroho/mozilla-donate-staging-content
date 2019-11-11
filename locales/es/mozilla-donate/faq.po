@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2019-11-08 15:01:01.775842+00:00\n"
@@ -10,11 +10,14 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pontoon\n"
 
-msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
-msgstr "Estas son las preguntas más frecuentes sobre las donaciones a la Fundación Mozilla."
+msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation"
+msgstr ""
 
 msgid "Donate now"
-msgstr "Donar ahora"
+msgstr "Faire un don"
 
 msgid "Donor FAQ"
 msgstr "Preguntas frecuentes sobre las donaciones"
+
+#~ msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
+#~ msgstr "Estas son las preguntas más frecuentes sobre las donaciones a la Fundación Mozilla."

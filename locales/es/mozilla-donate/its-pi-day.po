@@ -14,3 +14,6 @@ msgstr ""
 
 msgid "Pi Day"
 msgstr ""
+
+#~ msgid "Fighting Back Against Misinformation"
+#~ msgstr "Luttons contre la désinformation"

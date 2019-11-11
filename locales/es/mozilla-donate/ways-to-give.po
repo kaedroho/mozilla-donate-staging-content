@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2019-11-08 15:01:09.392452+00:00\n"
@@ -216,13 +216,13 @@ msgid "<b>SWIFT/BIC Code:</b> SVBKUS6S"
 msgstr "<b>Code BIC / SWIFT :</b> SVBKUS6S"
 
 msgid "<b>Account Number:</b> 3302412870"
-msgstr ""
+msgstr "<b>Numéro du compte :</b> 3302412870"
 
 msgid "<b>Beneficiary Name (For credit to):</b> Mozilla Foundation"
-msgstr ""
+msgstr "<b>Nom du bénéficiaire (ordre) :</b> Mozilla Foundation"
 
 msgid "<b>Routing &amp; Transit (ABA):</b> 121140399"
-msgstr ""
+msgstr "<b>Numéros de routage (ABA) :</b> 121140399"
 
 msgid "International Wire Transfers (except EUR or GBP Transfers):"
 msgstr "Virements internationaux (sauf pour les virements en euros ou en livres sterling) :"
