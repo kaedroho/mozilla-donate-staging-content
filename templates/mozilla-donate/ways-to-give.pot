@@ -263,9 +263,6 @@ msgstr ""
 msgid "British Pound Sterling"
 msgstr ""
 
-msgid "<b>IBAN:</b> DE67512305000500136802"
-msgstr ""
-
 msgid "<b>Beneficiary Name (For credit to):</b> SVB-Mozilla Foundation"
 msgstr ""
 
@@ -282,18 +279,6 @@ msgid "<b>Account Currency:</b> Euro (EUR)"
 msgstr ""
 
 msgid "Euros"
-msgstr ""
-
-msgid "If your bank requests our physical address, it is 331 E. Evelyn Ave, Mountain View, CA 94041 USA."
-msgstr ""
-
-msgid "Please remember that donations are deductible for U.S. income tax purposes only."
-msgstr ""
-
-msgid "We accept donations in Euros through Single European Payment Area (SEPA) transfer, and British Pounds through BACS transfer."
-msgstr ""
-
-msgid "Bank Transfer / SEPA"
 msgstr ""
 
 msgid "<a id=\"a1\">Go to this link</a> to make a secure online donation right now."

@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2019-11-08 15:01:00.756360+00:00\n"
@@ -11,7 +11,7 @@ msgstr ""
 "X-Generator: Pontoon\n"
 
 msgid "Donate now"
-msgstr "Test"
+msgstr "Test test"
 
 msgid ""
 "<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
