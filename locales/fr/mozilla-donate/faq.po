@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2019-11-08 15:01:01.861206+00:00\n"
-"PO-Revision-Date: 2019-11-11 15:03+0000\n"
+"PO-Revision-Date: 2019-11-18 16:28+0000\n"
 "Last-Translator: theo <theo@mozillafoundation.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -20,22 +20,25 @@ msgid "I’m in the United States. Can I support Mozilla through eBay for Charit
 msgstr ""
 
 msgid "Use of the Invisible reCAPTCHA is governed by the Google <a id=\"a1\">Privacy Policy</a> and <a id=\"a2\">Terms of Use</a>."
-msgstr ""
+msgstr "L’utilisation de l’application Invisible reCAPTCHA est régie par les <a id=\"a1\">Règles de confidentialité</a> et les <a id=\"a2\">Conditions d’utilisation</a> de Google."
 
 msgid ""
 "Nonprofit organizations are a common target for online credit card fraud. Use of reCaptcha is one way we’re working to protect against automated abuse and prevent fraudsters with stolen card "
 "information from testing these numbers on our donation forms. We care about your privacy. When Mozilla (that’s us) collects information about you, our <a id=\"a1\">Mozilla Privacy Policy</a> "
 "describes how we handle that information."
 msgstr ""
+"Les organisations à but non lucratif sont souvent visées par des fraudes à la carte bancaire en ligne. L’utilisation de reCaptcha est un moyen de se protéger contre les attaques automatisées et "
+"d’empêcher les fraudeurs disposant de numéros de cartes volées de les tester sur nos formulaires de don. Nous nous soucions de votre vie privée. Lorsque Mozilla (c’est nous) recueille des "
+"informations à votre sujet, la <a id=\"a1\">Politique de confidentialité de Mozilla</a> détaille comment nous gérons ces informations."
 
 msgid "Why does Mozilla use reCaptcha?"
-msgstr ""
+msgstr "Pourquoi Mozilla utilise reCaptcha ?"
 
 msgid "Yes! Please visit <a id=\"a1\">this donation form</a> to make a contribution specifically for Thunderbird."
-msgstr ""
+msgstr "Oui, visitez simplement <a id=\"a1\">ce formulaire de don</a> pour contribuer directement à Thunderbird."
 
 msgid "Can I donate specifically to support the Thunderbird project?"
-msgstr ""
+msgstr "Puis-je faire un don spécifiquement pour aider le projet Thunderbird ?"
 
 msgid ""
 "Yes! We’re registered with most major matching gift portal systems, and would be happy to work with you to get your donation matched by your employer. Please contact us at <a "
@@ -216,17 +219,22 @@ msgid ""
 "When you donate to the Mozilla Foundation, we receive personal information from you. We use this data to acknowledge your donation, provide you with donation receipts, and correspond with you "
 "through newsletters or email. You can read more about what information we receive, the purposes we use that information for, and how we handle it in our <a id=\"a1\">Privacy Policy</a>."
 msgstr ""
+"Lorsque vous faites un don à la Fondation Mozilla, nous recevons des renseignements personnels de votre part. Nous utilisons ces données pour vous remercier de votre don, vous fournir des reçus "
+"officiels de dons et correspondre avec vous par le biais de lettres d’information ou par courriel. Vous pouvez en savoir plus sur les données que nous recevons, à quoi nous les employons et comment "
+"nous les traitons dans notre <a id=\"a1\">Politique de confidentialité</a>."
 
 msgid "How does Mozilla ensure my personal information is protected?"
-msgstr ""
+msgstr "Que fait Mozilla pour assurer la protection de mes données personnelles ?"
 
 msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like check, bitcoin, or direct debit — visit our <a "
 "id=\"a2\">Ways to Give page</a>."
 msgstr ""
+"<a id=\"a1\">Consultez ce lien pour faire un don en ligne de façon sécurisée via carte bancaire ou PayPal</a>. Pour les autres façons de faire un don (chèques, bitcoins, virements bancaires) "
+"consultez notre page <a id=\"a2\">Les différentes façons de faire un don</a>."
 
 msgid "What are the ways I can donate?"
-msgstr ""
+msgstr "Quels sont les différents moyens de faire un don ?"
 
 msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
 msgstr "Questions les plus fréquentes ci-dessous."
