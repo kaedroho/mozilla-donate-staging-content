@@ -20,7 +20,7 @@ msgstr ""
 
 msgid ""
 "Nonprofit organizations are a common target for online credit card fraud. Use of reCaptcha is one way we’re working to protect against automated abuse and prevent fraudsters with stolen card "
-"information from testing these numbers on our donation forms. We care about your privacy. When Mozilla (that's us) collects information about you, our <a id=\"a1\">Mozilla Privacy Policy</a> "
+"information from testing these numbers on our donation forms. We care about your privacy. When Mozilla (that’s us) collects information about you, our <a id=\"a1\">Mozilla Privacy Policy</a> "
 "describes how we handle that information."
 msgstr ""
 
