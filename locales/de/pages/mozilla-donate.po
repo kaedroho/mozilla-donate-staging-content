@@ -16,10 +16,10 @@ msgid ""
 "keep the Web open and free. <b>Will you give today?</b>"
 msgstr ""
 
-#~ msgctxt "intro"
-#~ msgid "Notice research tell cultural. Special our peace able fish month no. Letter degree about single type. Black over win main national garden."
-#~ msgstr "Beachten Sie die Forschung erzählen kulturelle. Speziell unser friedlicher Fischmonat Nr. Buchstabengrad über Einzeltyp. Schwarz über Win Hauptnationalgarten."
-
 #~ msgctxt "title"
 #~ msgid "Donate today"
 #~ msgstr "Spende heute"
+
+#~ msgctxt "intro"
+#~ msgid "Notice research tell cultural. Special our peace able fish month no. Letter degree about single type. Black over win main national garden."
+#~ msgstr "Beachten Sie die Forschung erzählen kulturelle. Speziell unser friedlicher Fischmonat Nr. Buchstabengrad über Einzeltyp. Schwarz über Win Hauptnationalgarten."
