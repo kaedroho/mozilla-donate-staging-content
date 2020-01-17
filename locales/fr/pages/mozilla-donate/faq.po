@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-01-17 09:44:48.476062+00:00\n"
-"PO-Revision-Date: 2020-01-17 11:37+0000\n"
+"PO-Revision-Date: 2020-01-17 11:52+0000\n"
 "Last-Translator: theo <theo@mozillafoundation.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -77,6 +77,8 @@ msgid ""
 "<b>Finally</b>, when you donate to Mozilla through a third party like <a id=\"a1\">PayPal</a> or <a id=\"a2\">Braintree</a>, those organizations also collect your data. Their collection and use of "
 "your data is governed by their respective privacy policies."
 msgstr ""
+"Enfin, lorsque vous faites un don à Mozilla en passant par un service tiers comme <a id=\"a1\">PayPal</a> ou <a id=\"a2\">Braintree</a>, ces entreprises collectent aussi vos données. Leur collecte "
+"et leur usage des données sont régies par leurs propres politiques de confidentialité."
 
 msgctxt "body.bc987af6-f159-4fcf-ba32-a92bdcfa5430.items.d8c0d400-705e-450f-a83e-be1241d3c243.title"
 msgid "Why do you need my address in order to process a donation?"
