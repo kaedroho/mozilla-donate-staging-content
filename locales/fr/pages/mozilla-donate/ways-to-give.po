@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-01-17 09:44:54.668229+00:00\n"
-"PO-Revision-Date: 2020-01-17 10:20+0000\n"
+"PO-Revision-Date: 2020-01-17 12:11+0000\n"
 "Last-Translator: theo <theo@mozillafoundation.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr "Les différentes façons de faire un don"
 
 msgctxt "call_to_action_text"
 msgid "Donate now"
-msgstr "Faites un don"
+msgstr "Faire un don"
 
 msgctxt "body.a228c1d1-b8f4-44de-bd5e-ee0e20ee8bb0"
 msgid "Credit / Debit and PayPal."
@@ -35,7 +35,7 @@ msgid ""
 "<b>Account Currency:</b> Euro (EUR)<br/><b>Receiving Bank (Pay to):</b> Standard Chartered Bank<br/><b>City &amp; Country/Region:</b> Frankfurt, Germany<br/><b>SWIFT/BIC Code:</b> "
 "SCBLDEFX<br/><b>Beneficiary Name (For credit to):</b> SVB-Mozilla Foundation"
 msgstr ""
-"<b>Monnaie :</b> Euro (EUR)<br/><b> Banque (Pay to):</b> Standard Chartered Bank<br/><b>Ville / pays :</b> Frankfurt, Allemagne<br/><b>SWIFT/BIC Code :</b> SCBLDEFX<br/><b> Nom (For credit to):</b> "
+"<b>Monnaie :</b> Euro (EUR)<br/><b> Banque (Pay to):</b> Standard Chartered Bank<br/><b>Ville & pays :</b> Frankfurt, Allemagne<br/><b>SWIFT/BIC Code :</b> SCBLDEFX<br/><b> Nom (For credit to):</b> "
 "SVB-Mozilla Foundation"
 
 msgctxt "body.26a9edd5-f3cc-435a-b5a2-90c9726be005"
