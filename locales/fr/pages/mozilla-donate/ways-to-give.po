@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-01-17 09:44:54.668229+00:00\n"
-"PO-Revision-Date: 2020-01-17 12:11+0000\n"
+"PO-Revision-Date: 2020-01-17 12:18+0000\n"
 "Last-Translator: theo <theo@mozillafoundation.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -47,8 +47,8 @@ msgid ""
 "<b>Account Currency:</b> British Pound Sterling (GBP)<br/><b>Receiving Bank (Pay to):</b> National Westminster Bank<br/><b>City &amp; Country/Region:</b> London, United Kingdom<br/><b>Bank Sort "
 "Code:</b> 60-00-04<br/><b>Account Number (8 digits):</b> 10017496<br/><b>Beneficiary Name (For credit to):</b> SVB RE Mozilla Foundation"
 msgstr ""
-"<b>Account Currency :</b> British Pound Sterling (GBP)<br/><b>Receiving Bank (Pay to) :</b> National Westminster Bank<br/><b>City &amp; Country/Region :</b> London, United Kingdom<br/><b>Bank Sort "
-"Code :</b> 60-00-04<br/><b>Account Number (8 digits) :</b> 10017496<br/><b>Beneficiary Name (For credit to) :</b> SVB RE Mozilla Foundation"
+"<b>Monnaie :</b> British Pound Sterling (GBP)<br/><b>Receiving Bank (Pay to) :</b> National Westminster Bank<br/><b>City &amp; Country/Region :</b> London, United Kingdom<br/><b>Bank Sort Code :</b>"
+" 60-00-04<br/><b>Account Number (8 digits) :</b> 10017496<br/><b>Beneficiary Name (For credit to) :</b> SVB RE Mozilla Foundation"
 
 msgctxt "body.e0edbbc0-df86-4e17-bac4-0b70ce100bfd"
 msgid "<b>SWIFT/BIC Code:</b> NWBKGB2L<br/><b>IBAN:</b> GB77NWBK60000410017496"
