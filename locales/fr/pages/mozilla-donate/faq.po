@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-01-17 09:44:48.476062+00:00\n"
-"PO-Revision-Date: 2020-01-17 11:57+0000\n"
+"PO-Revision-Date: 2020-01-17 12:04+0000\n"
 "Last-Translator: theo <theo@mozillafoundation.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr "FAQ pour les dons"
 
 msgctxt "call_to_action_text"
 msgid "Donate now"
-msgstr "Faites un don"
+msgstr "Faire un don"
 
 msgctxt "body.bc987af6-f159-4fcf-ba32-a92bdcfa5430.title"
 msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
