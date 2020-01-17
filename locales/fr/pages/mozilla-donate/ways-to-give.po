@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-01-17 09:44:54.668229+00:00\n"
-"PO-Revision-Date: 2020-01-17 12:18+0000\n"
+"PO-Revision-Date: 2020-01-17 13:34+0000\n"
 "Last-Translator: theo <theo@mozillafoundation.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -28,29 +28,31 @@ msgstr "<a id=\"a1\">Consultez ce lien</a> pour faire un don en ligne de façon 
 
 msgctxt "body.572e3698-2e50-4604-92b7-685c2c7b630a"
 msgid "Bank Transfer / SEPA"
-msgstr ""
+msgstr "Virement bancaire / SEPA"
 
 msgctxt "body.837537de-3656-45f6-b116-0ae8ae8a8b36"
 msgid "We accept donations in Euros through Single European Payment Area (SEPA) transfer, and British Pounds through BACS transfer."
-msgstr ""
+msgstr "Nous acceptons les dons en euros via des virements au sein de la zone de paiement européenne unique (SEPA), ou en livres sterling via des virements BACS."
 
 msgctxt "body.837537de-3656-45f6-b116-0ae8ae8a8b36"
 msgid "Please remember that donations are deductible for U.S. income tax purposes only."
-msgstr ""
+msgstr "Nous vous rappelons que ces dons sont déductibles uniquement aux États-Unis dans le cadre des impôts sur le revenu."
 
 msgctxt "body.837537de-3656-45f6-b116-0ae8ae8a8b36"
 msgid "If your bank requests our physical address, it is 331 E. Evelyn Ave, Mountain View, CA 94041 USA."
-msgstr ""
+msgstr "Si votre banque demande notre adresse postale, indiquez 331 E. Evelyn Ave, Mountain View, CA 94041 USA."
 
 msgctxt "body.4f307332-fc9a-423d-9846-334fc4653f50"
 msgid "Euros"
-msgstr ""
+msgstr "Euros"
 
 msgctxt "body.0252b812-393d-423c-8475-b78b6a8bbce4"
 msgid ""
 "<b>Account Currency:</b> Euro (EUR)<br/><b>Receiving Bank (Pay to):</b> Standard Chartered Bank<br/><b>City &amp; Country/Region:</b> Frankfurt, Germany<br/><b>SWIFT/BIC Code:</b> "
 "SCBLDEFX<br/><b>Beneficiary Name (For credit to):</b> SVB-Mozilla Foundation<br/><b>IBAN:</b> DE67512305000500136802"
 msgstr ""
+"<b>Monnaie du compte :</b> Euro (EUR)<br/><b>Banque du bénéficiaire :</b> Standard Chartered Bank<br/><b>Ville et pays :</b> Francfort, Allemagne<br/><b>Code BIC / SWIFT :</b> SCBLDEFX<br/><b>Nom du"
+" bénéficiaire (ordre) :</b> SVB-Mozilla Foundation<br/><b>IBAN :</b> DE67512305000500136802"
 
 msgctxt "body.26a9edd5-f3cc-435a-b5a2-90c9726be005"
 msgid "British Pound Sterling"
