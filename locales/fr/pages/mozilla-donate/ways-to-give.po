@@ -1,0 +1,1033 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-01-17 09:44:54.668229+00:00\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/html; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Ways to Give!"
+msgstr ""
+
+msgctxt "call_to_action_text"
+msgid "Donate now"
+msgstr "Faites un don"
+
+msgctxt "body.a228c1d1-b8f4-44de-bd5e-ee0e20ee8bb0"
+msgid "Credit / Debit and PayPal."
+msgstr ""
+
+msgctxt "body.d4e64a49-291c-47ef-a5c5-8efd7f98d549"
+msgid "<a id=\"a1\">Go to this link</a> to make a secure online donation right now."
+msgstr "<a id=\"a1\">Consultez ce lien</a> pour faire un don en ligne de façon sécurisée, sans attendre."
+
+msgctxt "body.66b46050-05f1-4235-8663-d9d0d0dbee50"
+msgid "Euros"
+msgstr "Euros"
+
+msgctxt "body.0252b812-393d-423c-8475-b78b6a8bbce4"
+msgid ""
+"<b>Account Currency:</b> Euro (EUR)<br/><b>Receiving Bank (Pay to):</b> Standard Chartered Bank<br/><b>City &amp; Country/Region:</b> Frankfurt, Germany<br/><b>SWIFT/BIC Code:</b> "
+"SCBLDEFX<br/><b>Beneficiary Name (For credit to):</b> SVB-Mozilla Foundation"
+msgstr ""
+
+msgctxt "body.26a9edd5-f3cc-435a-b5a2-90c9726be005"
+msgid "British Pound Sterling"
+msgstr "Livres sterling"
+
+msgctxt "body.e0edbbc0-df86-4e17-bac4-0b70ce100bfd"
+msgid ""
+"<b>Account Currency:</b> British Pound Sterling (GBP)<br/><b>Receiving Bank (Pay to):</b> National Westminster Bank<br/><b>City &amp; Country/Region:</b> London, United Kingdom<br/><b>Bank Sort "
+"Code:</b> 60-00-04<br/><b>Account Number (8 digits):</b> 10017496<br/><b>Beneficiary Name (For credit to):</b> SVB RE Mozilla Foundation"
+msgstr ""
+
+msgctxt "body.e0edbbc0-df86-4e17-bac4-0b70ce100bfd"
+msgid "<b>SWIFT/BIC Code:</b> NWBKGB2L<br/><b>IBAN:</b> GB77NWBK60000410017496"
+msgstr ""
+
+msgctxt "body.cba09eaa-d665-4e4f-8d05-a517816ac921"
+msgid "US Dollars"
+msgstr "Dollars des États-Unis"
+
+msgctxt "body.5d7f34b3-16f1-4302-ab32-4c635f73060c"
+msgid "<b>Receiving Bank (Pay to):</b> Silicon Valley Bank<br/><b>Address:</b> 3003 Tasman Drive, Santa Clara, CA 94054 USA"
+msgstr ""
+
+msgctxt "body.5d7f34b3-16f1-4302-ab32-4c635f73060c"
+msgid "Domestic Transfers:"
+msgstr "Virements nationaux :"
+
+msgctxt "body.5d7f34b3-16f1-4302-ab32-4c635f73060c"
+msgid "<b>Routing &amp; Transit (ABA):</b> 121140399<br/><b>Beneficiary Name (For credit to):</b> Mozilla Foundation<br/><b>Account Number:</b> 3302412870"
+msgstr ""
+
+msgctxt "body.5d7f34b3-16f1-4302-ab32-4c635f73060c"
+msgid "International Wire Transfers (except EUR or GBP Transfers):"
+msgstr "Virements internationaux (sauf pour les virements en euros ou en livres sterling) :"
+
+msgctxt "body.5d7f34b3-16f1-4302-ab32-4c635f73060c"
+msgid "<b>Routing &amp; Transit (ABA):</b> 121140399<br/><b>Beneficiary Name (For credit to):</b> Mozilla Foundation<br/><b>Account Number:</b> 3302412870<br/><b>SWIFT/BIC Code:</b> SVBKUS6S"
+msgstr ""
+
+msgctxt "body.6b303f42-6947-4e7c-8d1e-3ebb7c81f949"
+msgid "All other currencies"
+msgstr "Toutes les autres monnaies"
+
+msgctxt "body.fee3fcd5-dc5b-4896-9445-f389dc3a157b"
+msgid "If you would like to know the IBAN to donate in other currencies, please email <a id=\"a1\">donate@mozilla.org</a>."
+msgstr "Si vous souhaitez connaître le numéro IBAN pour effectuer un don dans une autre monnaie, merci de nous contacter via <a id=\"a1\">donate@mozilla.org</a>."
+
+msgctxt "body.457214e8-fe69-4302-9f36-57298896b4d5"
+msgid "Check (via postal service)"
+msgstr "Chèque (par voie postale)"
+
+msgctxt "body.49ec918d-de16-4610-9c10-c93eac5e3f24"
+msgid ""
+"Please send a check <b>including your email address on the memo line</b>, and payable (payee) to “Mozilla Foundation.” Please note that the Mozilla Foundation can only accept checks in US dollars "
+"drawn on a US bank. Please do <b>not</b> send cash."
+msgstr ""
+"Veuillez envoyer un chèque <b>comprenant votre adresse électronique sur la ligne mémo</b> et à l’ordre de « Mozilla Foundation ». Veuillez noter que la fondation Mozilla ne peut accepter que les "
+"chèques en dollars américains provenant d’une banque américaine. Merci de ne <b>pas</b> envoyer d’argent liquide."
+
+msgctxt "body.49ec918d-de16-4610-9c10-c93eac5e3f24"
+msgid "Mozilla Foundation attn: Donor Care<br/>2 Harrison Street, #175<br/>San Francisco CA 94105<br/>USA"
+msgstr ""
+
+msgctxt "body.973d8665-370d-44cd-9ca6-84b6fd844b5d"
+msgid "Currencies"
+msgstr "Monnaies"
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "Select your currency to make a secure online donation:"
+msgstr "Sélectionnez votre monnaie pour faire un don en ligne de façon sécurisée :"
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "USD $"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "AED د.إ.‏"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "ALL L"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "AUD $"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "ARS $"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "AZN ₼"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "BAM KM"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "BDT ৳"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "BRL R$"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "CAD $"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "CHF Fr."
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "CLP $"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "CNY ¥"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "CZK Kč"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "DKK kr"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "DZD د.ج.‏"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "EGP ج.م.‏"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "EUR €"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "GBP £"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "GEL ₾"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "GTQ Q"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "HKD $"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "HRK kn"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "HUF Ft"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "IDR Rp"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "ILS ₪"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "INR ₹"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "JPY ¥"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "KRW ₩"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "LAK ₭"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "LBP ل.ل.‎"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "MAD MAD"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "MYR RM"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "MXN $"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "NOK kr"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "NZD $"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "PHP ₱"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "PLN zł"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "QAR ر.ق.‏"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "RON lei"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "RUB ₽"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "SAR ر.س.‏"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "SEK kr"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "SGD $SG"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "THB ฿"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "TRY ₺"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "TWD NT$"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "UAH ₴"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "YER ر.ي.‏"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "ZAR R"
+msgstr ""
+
+msgctxt "body.4f1ac146-7985-426a-9302-7a2a4ec8bf01"
+msgid "Bitcoin"
+msgstr "Bitcoins"
+
+msgctxt "body.3c2d4b1b-ff79-4a49-9225-36db13f7e600"
+msgid ""
+"The Mozilla Foundation is a California non-profit corporation exempt from United States federal income taxation under IRC 501(c)(3) and a public charity classified under IRC sections 170(b)(1)(A) "
+"and 509(a)(1). Bitcoin donations Mozilla receives are considered charitable contributions under U.S. federal tax laws, to be used in its discretion for its charitable purposes. Because the IRS has "
+"indicated that it will treat bitcoin as property for U.S. tax purposes (see IRS Notice 2014-21), donations of bitcoin may be subject to special rules as to the amount of your charitable deduction, "
+"the documentation that must be provided to claim a tax deduction, or other matters."
+msgstr ""
+"Mozilla Foundation est une entreprise à but non lucratif californienne exonérée de l’impôt sur le revenu aux États-Unis selon la section 501(c)(3) de l’Internal Revenue Code (IRC) et est considérée "
+"comme organisme de bienfaisance selon les sections 170(b)(1)(A) et 509(a)(1) de l’IRC. Les dons en bitcoins reçus par Mozilla sont considérés comme des dons à des organismes de bienfaisance selon la"
+" législation fiscale aux États-Unis, et seront utilisés à des fins caritatives, à sa discrétion. L’Internal Revenue Service a indiqué qu’il traitera les bitcoins en tant que biens dans le cadre des "
+"impôts aux États-Unis (voir la notice 2014-21 de l’IRS). Les dons en bitcoins peuvent faire l’objet de règles spécifiques sur le montant de votre déduction liée aux dons à des organismes de "
+"bienfaisance, sur les justificatifs devant être fournis pour demander une déduction fiscale, et sur d’autres choses."
+
+msgctxt "body.3c2d4b1b-ff79-4a49-9225-36db13f7e600"
+msgid "Learn more about bitcoin donations <a id=\"a1\">here</a>. To donate bitcoins, <a id=\"a2\">please visit this link.</a>"
+msgstr "Si vous souhaitez en savoir plus sur les dons en bitcoins, <a id=\"a1\">cliquez ici</a>. Pour faire un don en bitcoins, <a id=\"a2\">visitez ce lien</a>."
+
+#~ msgctxt "body.1cbb2f50-a768-47db-b6af-0debd7458752"
+#~ msgid ""
+#~ "The Mozilla Foundation is a California non-profit corporation exempt from United States federal income taxation under IRC 501(c)(3) and a public charity classified under IRC sections 170(b)(1)(A) "
+#~ "and 509(a)(1). Bitcoin donations Mozilla receives are considered charitable contributions under U.S. federal tax laws, to be used in its discretion for its charitable purposes. Because the IRS has "
+#~ "indicated that it will treat bitcoin as property for U.S. tax purposes (see IRS Notice 2014-21), donations of bitcoin may be subject to special rules as to the amount of your charitable deduction, "
+#~ "the documentation that must be provided to claim a tax deduction, or other matters."
+#~ msgstr ""
+#~ "Mozilla Foundation est une entreprise à but non lucratif californienne exonérée de l’impôt sur le revenu aux États-Unis selon la section 501(c)(3) de l’Internal Revenue Code (IRC) et est considérée "
+#~ "comme organisme de bienfaisance selon les sections 170(b)(1)(A) et 509(a)(1) de l’IRC. Les dons en bitcoins reçus par Mozilla sont considérés comme des dons à des organismes de bienfaisance selon la"
+#~ " législation fiscale aux États-Unis, et seront utilisés à des fins caritatives, à sa discrétion. L’Internal Revenue Service a indiqué qu’il traitera les bitcoins en tant que biens dans le cadre des "
+#~ "impôts aux États-Unis (voir la notice 2014-21 de l’IRS). Les dons en bitcoins peuvent faire l’objet de règles spécifiques sur le montant de votre déduction liée aux dons à des organismes de "
+#~ "bienfaisance, sur les justificatifs devant être fournis pour demander une déduction fiscale, et sur d’autres choses."
+
+#~ msgctxt "body.1cbb2f50-a768-47db-b6af-0debd7458752"
+#~ msgid "Learn more about bitcoin donations <a id=\"a1\">here</a>. To donate bitcoins, <a id=\"a2\">please visit this link.</a>"
+#~ msgstr "Si vous souhaitez en savoir plus sur les dons en bitcoins, <a id=\"a1\">cliquez ici</a>. Pour faire un don en bitcoins, <a id=\"a2\">visitez ce lien</a>."
+
+#~ msgctxt "body.9f69791a-f6f5-4e68-ac62-9b5d93c4c99d"
+#~ msgid "Bitcoin"
+#~ msgstr "Bitcoins"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "Select your currency to make a secure online donation:"
+#~ msgstr "Sélectionnez votre monnaie pour faire un don en ligne de façon sécurisée :"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">USD $</a>"
+#~ msgstr "<a id=\"a1\">USD $</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">AED د.إ.‏</a>"
+#~ msgstr "<a id=\"a1\">AED د.إ.‏</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">ALL L</a>"
+#~ msgstr "<a id=\"a1\">ALL L</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">AUD $</a>"
+#~ msgstr "<a id=\"a1\">AUD $</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">ARS $</a>"
+#~ msgstr "<a id=\"a1\">ARS $</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">AZN ₼</a>"
+#~ msgstr "<a id=\"a1\">AZN ₼</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">BAM KM</a>"
+#~ msgstr "<a id=\"a1\">BAM KM</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">BDT ৳</a>"
+#~ msgstr "<a id=\"a1\">BDT ৳</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">BRL R$</a>"
+#~ msgstr "<a id=\"a1\">BRL R$</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">CAD $</a>"
+#~ msgstr "<a id=\"a1\">CAD $</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">CHF Fr.</a>"
+#~ msgstr "<a id=\"a1\">CHF Fr.</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">CLP $</a>"
+#~ msgstr "<a id=\"a1\">CLP $</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">CNY ¥</a>"
+#~ msgstr "<a id=\"a1\">CNY ¥</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">CZK Kč</a>"
+#~ msgstr "<a id=\"a1\">CZK Kč</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">DKK kr</a>"
+#~ msgstr "<a id=\"a1\">DKK kr</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">DZD د.ج.‏</a>"
+#~ msgstr "<a id=\"a1\">DZD د.ج.‏</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">EGP ج.م.‏</a>"
+#~ msgstr "<a id=\"a1\">EGP ج.م.‏</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">EUR €</a>"
+#~ msgstr "<a id=\"a1\">EUR €</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">GBP £</a>"
+#~ msgstr "<a id=\"a1\">GBP £</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">GEL ₾</a>"
+#~ msgstr "<a id=\"a1\">GEL ₾</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">GTQ Q</a>"
+#~ msgstr "<a id=\"a1\">GTQ Q</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">HKD $</a>"
+#~ msgstr "<a id=\"a1\">HKD $</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">HRK kn</a>"
+#~ msgstr "<a id=\"a1\">HRK kn</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">HUF Ft</a>"
+#~ msgstr "<a id=\"a1\">HUF Ft</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">IDR Rp</a>"
+#~ msgstr "<a id=\"a1\">IDR Rp</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">ILS ₪</a>"
+#~ msgstr "<a id=\"a1\">ILS ₪</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">INR ₹</a>"
+#~ msgstr "<a id=\"a1\">INR ₹</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">JPY ¥</a>"
+#~ msgstr "<a id=\"a1\">JPY ¥</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">KRW ₩</a>"
+#~ msgstr "<a id=\"a1\">KRW ₩</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">LAK ₭</a>"
+#~ msgstr "<a id=\"a1\">LAK ₭</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">LBP ل.ل.‎</a>"
+#~ msgstr "<a id=\"a1\">LBP ل.ل.‎</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">MAD MAD</a>"
+#~ msgstr "<a id=\"a1\">MAD MAD</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">MYR RM</a>"
+#~ msgstr "<a id=\"a1\">MYR RM</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">MXN $</a>"
+#~ msgstr "<a id=\"a1\">MXN $</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">NOK kr</a>"
+#~ msgstr "<a id=\"a1\">NOK kr</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">NZD $</a>"
+#~ msgstr "<a id=\"a1\">NZD $</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">PHP ₱</a>"
+#~ msgstr "<a id=\"a1\">PHP ₱</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">PLN zł</a>"
+#~ msgstr "<a id=\"a1\">PLN zł</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">QAR ر.ق.‏</a>"
+#~ msgstr "<a id=\"a1\">QAR ر.ق.‏</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">RON lei</a>"
+#~ msgstr "<a id=\"a1\">RON lei</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">RUB ₽</a>"
+#~ msgstr "<a id=\"a1\">RUB ₽</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">SAR ر.س.‏</a>"
+#~ msgstr "<a id=\"a1\">SAR ر.س.‏</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">SEK kr</a>"
+#~ msgstr "<a id=\"a1\">SEK kr</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">SGD $SG</a>"
+#~ msgstr "<a id=\"a1\">SGD $SG</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">THB ฿</a>"
+#~ msgstr "<a id=\"a1\">THB ฿</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">TRY ₺</a>"
+#~ msgstr "<a id=\"a1\">TRY ₺</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">TWD NT$</a>"
+#~ msgstr "<a id=\"a1\">TWD NT$</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">UAH ₴</a>"
+#~ msgstr "<a id=\"a1\">UAH ₴</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">YER ر.ي.‏</a>"
+#~ msgstr "<a id=\"a1\">YER ر.ي.‏</a>"
+
+#~ msgctxt "body.a61c1006-8fb8-4496-bdea-cd95aebd72a6"
+#~ msgid "<a id=\"a1\">ZAR R</a>"
+#~ msgstr "<a id=\"a1\">ZAR R</a>"
+
+#~ msgctxt "body.ac51d92b-d4e5-426f-a162-0fbcba3e8bc3"
+#~ msgid "Currencies"
+#~ msgstr "Monnaies"
+
+#~ msgctxt "body.72a45235-120d-4cfa-920f-0b0b6613dbd1"
+#~ msgid "Mozilla Foundation attn: Donor Care"
+#~ msgstr "Mozilla Foundation attn: Donor Care"
+
+#~ msgctxt "body.72a45235-120d-4cfa-920f-0b0b6613dbd1"
+#~ msgid "2 Harrison Street, #175"
+#~ msgstr "2 Harrison Street, #175"
+
+#~ msgctxt "body.72a45235-120d-4cfa-920f-0b0b6613dbd1"
+#~ msgid "San Francisco CA 94105"
+#~ msgstr "San Francisco CA 94105"
+
+#~ msgctxt "body.72a45235-120d-4cfa-920f-0b0b6613dbd1"
+#~ msgid "USA"
+#~ msgstr "USA"
+
+#~ msgctxt "body.72a45235-120d-4cfa-920f-0b0b6613dbd1"
+#~ msgid ""
+#~ "Please send a check <b>including your email address on the memo line</b>, and payable (payee) to “Mozilla Foundation.” Please note that the Mozilla Foundation can only accept checks in US dollars "
+#~ "drawn on a US bank. Please do <b>not</b> send cash."
+#~ msgstr ""
+#~ "Veuillez envoyer un chèque <b>comprenant votre adresse électronique sur la ligne mémo</b> et à l’ordre de « Mozilla Foundation ». Veuillez noter que la fondation Mozilla ne peut accepter que les "
+#~ "chèques en dollars américains provenant d’une banque américaine. Merci de ne <b>pas</b> envoyer d’argent liquide."
+
+#~ msgctxt "body.4a01410a-e218-4a1f-b412-4969e4c8e095"
+#~ msgid "Check (via postal service)"
+#~ msgstr "Chèque (par voie postale)"
+
+#~ msgctxt "body.26e6b9fe-97c5-4c98-af49-1c7a5c0b36b8"
+#~ msgid "If you would like to know the IBAN to donate in other currencies, please email <a id=\"a1\">donate@mozilla.org</a>."
+#~ msgstr "Si vous souhaitez connaître le numéro IBAN pour effectuer un don dans une autre monnaie, merci de nous contacter via <a id=\"a1\">donate@mozilla.org</a>."
+
+#~ msgctxt "body.e50e01f2-456c-4e04-8e1d-0a84e4fb9275"
+#~ msgid "All other currencies"
+#~ msgstr "Toutes les autres monnaies"
+
+#~ msgctxt "body.e7321761-b2da-4e66-823d-638d737633f4"
+#~ msgid "<b>Receiving Bank (Pay to):</b> Silicon Valley Bank"
+#~ msgstr "<b>Banque du bénéficiaire :</b> Silicon Valley Bank"
+
+#~ msgctxt "body.e7321761-b2da-4e66-823d-638d737633f4"
+#~ msgid "<b>Address:</b> 3003 Tasman Drive, Santa Clara, CA 94054 USA"
+#~ msgstr "<b>Adresse :</b> 3003 Tasman Drive, Santa Clara, CA 94054 USA"
+
+#~ msgctxt "body.e7321761-b2da-4e66-823d-638d737633f4"
+#~ msgid "Domestic Transfers:"
+#~ msgstr "Virements nationaux :"
+
+#~ msgctxt "body.e7321761-b2da-4e66-823d-638d737633f4"
+#~ msgid "<b>Routing &amp; Transit (ABA):</b> 121140399"
+#~ msgstr "<b>Numéros de routage (ABA) :</b> 121140399"
+
+#~ msgctxt "body.e7321761-b2da-4e66-823d-638d737633f4"
+#~ msgid "<b>Beneficiary Name (For credit to):</b> Mozilla Foundation"
+#~ msgstr "<b>Nom du bénéficiaire (ordre) :</b> Mozilla Foundation"
+
+#~ msgctxt "body.e7321761-b2da-4e66-823d-638d737633f4"
+#~ msgid "<b>Account Number:</b> 3302412870"
+#~ msgstr "<b>Numéro du compte :</b> 3302412870"
+
+#~ msgctxt "body.e7321761-b2da-4e66-823d-638d737633f4"
+#~ msgid "International Wire Transfers (except EUR or GBP Transfers):"
+#~ msgstr "Virements internationaux (sauf pour les virements en euros ou en livres sterling) :"
+
+#~ msgctxt "body.e7321761-b2da-4e66-823d-638d737633f4"
+#~ msgid "<b>SWIFT/BIC Code:</b> SVBKUS6S"
+#~ msgstr "<b>Code BIC / SWIFT :</b> SVBKUS6S"
+
+#~ msgctxt "body.c9fa560c-a16d-4d12-b0c8-92f3a2b3ed47"
+#~ msgid "US Dollars"
+#~ msgstr "Dollars des États-Unis"
+
+#~ msgctxt "title"
+#~ msgid "Ways to Give"
+#~ msgstr "Les différentes façons de faire un don"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">USD $</a>"
+#~ msgstr "<a id=\"a1\">USD $</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">AED د.إ.‏</a>"
+#~ msgstr "<a id=\"a1\">AED د.إ.‏</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">ALL L</a>"
+#~ msgstr "<a id=\"a1\">ALL L</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">AUD $</a>"
+#~ msgstr "<a id=\"a1\">AUD $</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">ARS $</a>"
+#~ msgstr "<a id=\"a1\">ARS $</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">AZN ₼</a>"
+#~ msgstr "<a id=\"a1\">AZN ₼</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">BAM KM</a>"
+#~ msgstr "<a id=\"a1\">BAM KM</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">BDT ৳</a>"
+#~ msgstr "<a id=\"a1\">BDT ৳</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">BRL R$</a>"
+#~ msgstr "<a id=\"a1\">BRL R$</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">CAD $</a>"
+#~ msgstr "<a id=\"a1\">CAD $</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">CHF Fr.</a>"
+#~ msgstr "<a id=\"a1\">CHF Fr.</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">CLP $</a>"
+#~ msgstr "<a id=\"a1\">CLP $</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">CNY ¥</a>"
+#~ msgstr "<a id=\"a1\">CNY ¥</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">CZK Kč</a>"
+#~ msgstr "<a id=\"a1\">CZK Kč</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">DKK kr</a>"
+#~ msgstr "<a id=\"a1\">DKK kr</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">DZD د.ج.‏</a>"
+#~ msgstr "<a id=\"a1\">DZD د.ج.‏</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">EGP ج.م.‏</a>"
+#~ msgstr "<a id=\"a1\">EGP ج.م.‏</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">EUR €</a>"
+#~ msgstr "<a id=\"a1\">EUR €</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">GBP £</a>"
+#~ msgstr "<a id=\"a1\">GBP £</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">GEL ₾</a>"
+#~ msgstr "<a id=\"a1\">GEL ₾</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">GTQ Q</a>"
+#~ msgstr "<a id=\"a1\">GTQ Q</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">HKD $</a>"
+#~ msgstr "<a id=\"a1\">HKD $</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">HRK kn</a>"
+#~ msgstr "<a id=\"a1\">HRK kn</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">HUF Ft</a>"
+#~ msgstr "<a id=\"a1\">HUF Ft</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">IDR Rp</a>"
+#~ msgstr "<a id=\"a1\">IDR Rp</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">ILS ₪</a>"
+#~ msgstr "<a id=\"a1\">ILS ₪</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">INR ₹</a>"
+#~ msgstr "<a id=\"a1\">INR ₹</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">JPY ¥</a>"
+#~ msgstr "<a id=\"a1\">JPY ¥</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">KRW ₩</a>"
+#~ msgstr "<a id=\"a1\">KRW ₩</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">LAK ₭</a>"
+#~ msgstr "<a id=\"a1\">LAK ₭</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">LBP ل.ل.‎</a>"
+#~ msgstr "<a id=\"a1\">LBP ل.ل.‎</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">MAD MAD</a>"
+#~ msgstr "<a id=\"a1\">MAD MAD</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">MYR RM</a>"
+#~ msgstr "<a id=\"a1\">MYR RM</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">MXN $</a>"
+#~ msgstr "<a id=\"a1\">MXN $</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">NOK kr</a>"
+#~ msgstr "<a id=\"a1\">NOK kr</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">NZD $</a>"
+#~ msgstr "<a id=\"a1\">NZD $</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">PHP ₱</a>"
+#~ msgstr "<a id=\"a1\">PHP ₱</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">PLN zł</a>"
+#~ msgstr "<a id=\"a1\">PLN zł</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">QAR ر.ق.‏</a>"
+#~ msgstr "<a id=\"a1\">QAR ر.ق.‏</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">RON lei</a>"
+#~ msgstr "<a id=\"a1\">RON lei</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">RUB ₽</a>"
+#~ msgstr "<a id=\"a1\">RUB ₽</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">SAR ر.س.‏</a>"
+#~ msgstr "<a id=\"a1\">SAR ر.س.‏</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">SEK kr</a>"
+#~ msgstr "<a id=\"a1\">SEK kr</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">SGD $SG</a>"
+#~ msgstr "<a id=\"a1\">SGD $SG</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">THB ฿</a>"
+#~ msgstr "<a id=\"a1\">THB ฿</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">TRY ₺</a>"
+#~ msgstr "<a id=\"a1\">TRY ₺</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">TWD NT$</a>"
+#~ msgstr "<a id=\"a1\">TWD NT$</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">UAH ₴</a>"
+#~ msgstr "<a id=\"a1\">UAH ₴</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">YER ر.ي.‏</a>"
+#~ msgstr "<a id=\"a1\">YER ر.ي.‏</a>"
+
+#~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+#~ msgid "<a id=\"a1\">ZAR R</a>"
+#~ msgstr "<a id=\"a1\">ZAR R</a>"
+
+#~ msgctxt "body.49ec918d-de16-4610-9c10-c93eac5e3f24"
+#~ msgid "Mozilla Foundation attn: Donor Care"
+#~ msgstr "Mozilla Foundation attn: Donor Care"
+
+#~ msgctxt "body.49ec918d-de16-4610-9c10-c93eac5e3f24"
+#~ msgid "2 Harrison Street, #175"
+#~ msgstr "2 Harrison Street, #175"
+
+#~ msgctxt "body.49ec918d-de16-4610-9c10-c93eac5e3f24"
+#~ msgid "San Francisco CA 94105"
+#~ msgstr "San Francisco CA 94105"
+
+#~ msgctxt "body.49ec918d-de16-4610-9c10-c93eac5e3f24"
+#~ msgid "USA"
+#~ msgstr "USA"
+
+#~ msgctxt "body.5d7f34b3-16f1-4302-ab32-4c635f73060c"
+#~ msgid "<b>Receiving Bank (Pay to):</b> Silicon Valley Bank"
+#~ msgstr "<b>Banque du bénéficiaire :</b> Silicon Valley Bank"
+
+#~ msgctxt "body.5d7f34b3-16f1-4302-ab32-4c635f73060c"
+#~ msgid "<b>Address:</b> 3003 Tasman Drive, Santa Clara, CA 94054 USA"
+#~ msgstr "<b>Adresse :</b> 3003 Tasman Drive, Santa Clara, CA 94054 USA"
+
+#~ msgctxt "body.5d7f34b3-16f1-4302-ab32-4c635f73060c"
+#~ msgid "<b>Routing &amp; Transit (ABA):</b> 121140399"
+#~ msgstr "<b>Numéros de routage (ABA) :</b> 121140399"
+
+#~ msgctxt "body.5d7f34b3-16f1-4302-ab32-4c635f73060c"
+#~ msgid "<b>Beneficiary Name (For credit to):</b> Mozilla Foundation"
+#~ msgstr "<b>Nom du bénéficiaire (ordre) :</b> Mozilla Foundation"
+
+#~ msgctxt "body.5d7f34b3-16f1-4302-ab32-4c635f73060c"
+#~ msgid "<b>Account Number:</b> 3302412870"
+#~ msgstr "<b>Numéro du compte :</b> 3302412870"
+
+#~ msgctxt "body.5d7f34b3-16f1-4302-ab32-4c635f73060c"
+#~ msgid "<b>SWIFT/BIC Code:</b> SVBKUS6S"
+#~ msgstr "<b>Code BIC / SWIFT :</b> SVBKUS6S"
+
+#~ msgctxt "body.e0edbbc0-df86-4e17-bac4-0b70ce100bfd"
+#~ msgid "<b>Account Currency:</b> British Pound Sterling (GBP)"
+#~ msgstr "<b>Monnaie du compte :</b> Livre sterling (GBP)"
+
+#~ msgctxt "body.e0edbbc0-df86-4e17-bac4-0b70ce100bfd"
+#~ msgid "<b>Receiving Bank (Pay to):</b> National Westminster Bank"
+#~ msgstr "<b>Banque du bénéficiaire :</b> National Westminster Bank"
+
+#~ msgctxt "body.e0edbbc0-df86-4e17-bac4-0b70ce100bfd"
+#~ msgid "<b>City &amp; Country/Region:</b> London, United Kingdom"
+#~ msgstr "<b>Ville et pays :</b> Londres, Royaume-Uni"
+
+#~ msgctxt "body.e0edbbc0-df86-4e17-bac4-0b70ce100bfd"
+#~ msgid "<b>Bank Sort Code:</b> 60-00-04"
+#~ msgstr "<b>Code guichet :</b> 60-00-04"
+
+#~ msgctxt "body.e0edbbc0-df86-4e17-bac4-0b70ce100bfd"
+#~ msgid "<b>Account Number (8 digits):</b> 10017496"
+#~ msgstr "<b>Numéro du compte (8 chiffres) :</b> 10017496"
+
+#~ msgctxt "body.e0edbbc0-df86-4e17-bac4-0b70ce100bfd"
+#~ msgid "<b>Beneficiary Name (For credit to):</b> SVB RE Mozilla Foundation"
+#~ msgstr "<b>Nom du bénéficiaire (ordre) :</b> SVB RE Mozilla Foundation"
+
+#~ msgctxt "body.e0edbbc0-df86-4e17-bac4-0b70ce100bfd"
+#~ msgid "<b>SWIFT/BIC Code:</b> NWBKGB2L"
+#~ msgstr "<b>Code BIC / SWIFT :</b> NWBKGB2L"
+
+#~ msgctxt "body.e0edbbc0-df86-4e17-bac4-0b70ce100bfd"
+#~ msgid "<b>IBAN:</b> GB77NWBK60000410017496"
+#~ msgstr "<b>IBAN :</b> GB77NWBK60000410017496"
+
+#~ msgctxt "body.0252b812-393d-423c-8475-b78b6a8bbce4"
+#~ msgid "<b>Account Currency:</b> Euro (EUR)"
+#~ msgstr "<b>Monnaie du compte :</b> Euro (EUR)"
+
+#~ msgctxt "body.0252b812-393d-423c-8475-b78b6a8bbce4"
+#~ msgid "<b>Receiving Bank (Pay to):</b> Standard Chartered Bank"
+#~ msgstr "<b>Banque du bénéficiaire :</b> Standard Chartered Bank"
+
+#~ msgctxt "body.0252b812-393d-423c-8475-b78b6a8bbce4"
+#~ msgid "<b>City &amp; Country/Region:</b> Frankfurt, Germany"
+#~ msgstr "<b>Ville et pays :</b> Francfort, Allemagne"
+
+#~ msgctxt "body.0252b812-393d-423c-8475-b78b6a8bbce4"
+#~ msgid "<b>SWIFT/BIC Code:</b> SCBLDEFX"
+#~ msgstr "<b>Code BIC / SWIFT :</b> SCBLDEFX"
+
+#~ msgctxt "body.0252b812-393d-423c-8475-b78b6a8bbce4"
+#~ msgid "<b>Beneficiary Name (For credit to):</b> SVB-Mozilla Foundation"
+#~ msgstr "<b>Nom du bénéficiaire (ordre) :</b> SVB-Mozilla Foundation"
+
+#~ msgctxt "body.0252b812-393d-423c-8475-b78b6a8bbce4"
+#~ msgid "<b>IBAN:</b> DE67512305000500136802"
+#~ msgstr "<b>IBAN :</b> DE67512305000500136802"
+
+#~ msgctxt "body.a228c1d1-b8f4-44de-bd5e-ee0e20ee8bb0"
+#~ msgid "Credit / Debit and PayPal"
+#~ msgstr "Carte bancaire ou PayPal"
+
+#~ msgctxt "body.a34e81b0-bef5-4d37-b158-417722cc4569"
+#~ msgid "<a id=\"a1\">Go to this link</a> to make a secure online donation right now."
+#~ msgstr "<a id=\"a1\">Consultez ce lien</a> pour faire un don en ligne de façon sécurisée, sans attendre."
+
+#~ msgctxt "body.42996695-cb81-4dc6-8d66-d17c194220c6"
+#~ msgid "Credit / Debit and PayPal"
+#~ msgstr "Carte bancaire ou PayPal"
+
+#~ msgctxt "body.3d9463e1-b499-4e7e-9a63-067493ad9310"
+#~ msgid "<b>Account Currency:</b> British Pound Sterling (GBP)"
+#~ msgstr "<b>Monnaie du compte :</b> Livre sterling (GBP)"
+
+#~ msgctxt "body.3d9463e1-b499-4e7e-9a63-067493ad9310"
+#~ msgid "<b>Receiving Bank (Pay to):</b> National Westminster Bank"
+#~ msgstr "<b>Banque du bénéficiaire :</b> National Westminster Bank"
+
+#~ msgctxt "body.3d9463e1-b499-4e7e-9a63-067493ad9310"
+#~ msgid "<b>City &amp; Country/Region:</b> London, United Kingdom"
+#~ msgstr "<b>Ville et pays :</b> Londres, Royaume-Uni"
+
+#~ msgctxt "body.3d9463e1-b499-4e7e-9a63-067493ad9310"
+#~ msgid "<b>Bank Sort Code:</b> 60-00-04"
+#~ msgstr "<b>Code guichet :</b> 60-00-04"
+
+#~ msgctxt "body.3d9463e1-b499-4e7e-9a63-067493ad9310"
+#~ msgid "<b>Account Number (8 digits):</b> 10017496"
+#~ msgstr "<b>Numéro du compte (8 chiffres) :</b> 10017496"
+
+#~ msgctxt "body.3d9463e1-b499-4e7e-9a63-067493ad9310"
+#~ msgid "<b>Beneficiary Name (For credit to):</b> SVB RE Mozilla Foundation"
+#~ msgstr "<b>Nom du bénéficiaire (ordre) :</b> SVB RE Mozilla Foundation"
+
+#~ msgctxt "body.3d9463e1-b499-4e7e-9a63-067493ad9310"
+#~ msgid "<b>SWIFT/BIC Code:</b> NWBKGB2L"
+#~ msgstr "<b>Code BIC / SWIFT :</b> NWBKGB2L"
+
+#~ msgctxt "body.3d9463e1-b499-4e7e-9a63-067493ad9310"
+#~ msgid "<b>IBAN:</b> GB77NWBK60000410017496"
+#~ msgstr "<b>IBAN :</b> GB77NWBK60000410017496"
+
+#~ msgctxt "body.30a0e97d-97a1-4938-9233-c9435b1b9821"
+#~ msgid "British Pound Sterling"
+#~ msgstr "Livres sterling"
+
+#~ msgctxt "body.e515b8f3-9b81-4443-acc8-36a4aed04e28"
+#~ msgid "<b>Account Currency:</b> Euro (EUR)"
+#~ msgstr "<b>Monnaie du compte :</b> Euro (EUR)"
+
+#~ msgctxt "body.e515b8f3-9b81-4443-acc8-36a4aed04e28"
+#~ msgid "<b>Receiving Bank (Pay to):</b> Standard Chartered Bank"
+#~ msgstr "<b>Banque du bénéficiaire :</b> Standard Chartered Bank"
+
+#~ msgctxt "body.e515b8f3-9b81-4443-acc8-36a4aed04e28"
+#~ msgid "<b>City &amp; Country/Region:</b> Frankfurt, Germany"
+#~ msgstr "<b>Ville et pays :</b> Francfort, Allemagne"
+
+#~ msgctxt "body.e515b8f3-9b81-4443-acc8-36a4aed04e28"
+#~ msgid "<b>SWIFT/BIC Code:</b> SCBLDEFX"
+#~ msgstr "<b>Code BIC / SWIFT :</b> SCBLDEFX"
+
+#~ msgctxt "body.e515b8f3-9b81-4443-acc8-36a4aed04e28"
+#~ msgid "<b>Beneficiary Name (For credit to):</b> SVB-Mozilla Foundation"
+#~ msgstr "<b>Nom du bénéficiaire (ordre) :</b> SVB-Mozilla Foundation"
+
+#~ msgctxt "body.e515b8f3-9b81-4443-acc8-36a4aed04e28"
+#~ msgid "<b>IBAN:</b> DE67512305000500136802"
+#~ msgstr "<b>IBAN :</b> DE67512305000500136802"
+
+#~ msgctxt "body.d45d6e8e-53b8-4589-a033-2a9db1d462cb"
+#~ msgid "Euros"
+#~ msgstr "Euros"
+
+#~ msgctxt "body.1886c486-1d5a-4ec3-8250-ce2b2597f21a"
+#~ msgid "We accept donations in Euros through Single European Payment Area (SEPA) transfer, and British Pounds through BACS transfer."
+#~ msgstr "Nous acceptons les dons en euros via des virements au sein de la zone de paiement européenne unique (SEPA), ou en livres sterling via des virements BACS."
+
+#~ msgctxt "body.1886c486-1d5a-4ec3-8250-ce2b2597f21a"
+#~ msgid "Please remember that donations are deductible for U.S. income tax purposes only."
+#~ msgstr "Nous vous rappelons que ces dons sont déductibles uniquement aux États-Unis dans le cadre des impôts sur le revenu."
+
+#~ msgctxt "body.1886c486-1d5a-4ec3-8250-ce2b2597f21a"
+#~ msgid "If your bank requests our physical address, it is 331 E. Evelyn Ave, Mountain View, CA 94041 USA."
+#~ msgstr "Si votre banque demande notre adresse postale, indiquez 331 E. Evelyn Ave, Mountain View, CA 94041 USA."
+
+#~ msgctxt "body.1c692943-2f93-41d2-bf8a-40f645e6af14"
+#~ msgid "Bank Transfer / SEPA"
+#~ msgstr "Virement bancaire / SEPA"
+
+#~ msgctxt "body.8d8ae02d-5e54-4aba-8c6d-1290c8e9a5f1"
+#~ msgid "We accept donations in Euros through Single European Payment Area (SEPA) transfer, and British Pounds through BACS transfer."
+#~ msgstr "Nous acceptons les dons en euros via des virements au sein de la zone de paiement européenne unique (SEPA), ou en livres sterling via des virements BACS."
+
+#~ msgctxt "body.8d8ae02d-5e54-4aba-8c6d-1290c8e9a5f1"
+#~ msgid "Please remember that donations are deductible for U.S. income tax purposes only."
+#~ msgstr "Nous vous rappelons que ces dons sont déductibles uniquement aux États-Unis dans le cadre des impôts sur le revenu."
+
+#~ msgctxt "body.8d8ae02d-5e54-4aba-8c6d-1290c8e9a5f1"
+#~ msgid "If your bank requests our physical address, it is 331 E. Evelyn Ave, Mountain View, CA 94041 USA."
+#~ msgstr "Si votre banque demande notre adresse postale, indiquez 331 E. Evelyn Ave, Mountain View, CA 94041 USA."
+
+#~ msgctxt "body.20f7f350-3865-4ef2-b482-b347d9110688"
+#~ msgid "Bank Transfer / SEPA"
+#~ msgstr "Virement bancaire / SEPA"
