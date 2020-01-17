@@ -6,7 +6,7 @@ msgstr ""
 "Content-Type: text/html; charset=utf-8\n"
 
 msgctxt "title"
-msgid "Ways to Give!"
+msgid "Ways to Give"
 msgstr ""
 
 msgctxt "call_to_action_text"

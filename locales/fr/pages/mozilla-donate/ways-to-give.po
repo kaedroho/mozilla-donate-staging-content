@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-01-17 09:44:54.668229+00:00\n"
@@ -11,7 +11,7 @@ msgstr ""
 "X-Generator: Pontoon\n"
 
 msgctxt "title"
-msgid "Ways to Give!"
+msgid "Ways to Give"
 msgstr "Les différentes façons de faire un don"
 
 msgctxt "call_to_action_text"
@@ -633,7 +633,7 @@ msgstr "Si vous souhaitez en savoir plus sur les dons en bitcoins, <a id=\"a1\">
 #~ msgstr "Dollars des États-Unis"
 
 #~ msgctxt "title"
-#~ msgid "Ways to Give"
+#~ msgid "Ways to Give!"
 #~ msgstr "Les différentes façons de faire un don"
 
 #~ msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
